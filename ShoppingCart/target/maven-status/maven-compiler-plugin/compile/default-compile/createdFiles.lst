@@ -1,0 +1,3 @@
+com\shoppingcart\dao\AddToShoppingCartDao.class
+com\shoppingcart\application\GetTotalCartPrice.class
+com\shoppingcart\entity\Products.class
